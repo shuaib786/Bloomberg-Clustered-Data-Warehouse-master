@@ -1,0 +1,3 @@
+com\bloomberg\configuration\HibernateTestConfiguration.class
+com\bloomberg\dao\EntityDaoImplTest.class
+com\bloomberg\controller\FileUploadControllerTest.class
